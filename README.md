@@ -1,7 +1,18 @@
- # Hey there 🤙🏼
+ ### _Hey there! I'm using github!_![wow](https://media2.giphy.com/media/qYWNubDstsPFh3BKFR/200.webp?cid=82a1493br72ho4dsu16q10ua22cm4fpbocfekcklpvjwl9ni&ep=v1_stickers_trending&rid=200.webp&ct=s)
 
- - based in Nuremberg📍
- - Web Dev Student👩🏻‍🎓
- - Love Tennis🎾 
+ <br>
+ 
+ 🫵🏼 **R**
+![smoothes](https://media2.giphy.com/media/cIauc8wulRwX1fliEY/200.webp?cid=82a1493bkvfntvss8dh0fnq2wt1hsf7q904mv63p7yax5xh4&ep=v1_gifs_trending&rid=200.webp&ct=g)
 
-![Tennis Ball Image](https://images.unsplash.com/photo-1587280501635-68a0e82cd5ff?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8dGVubmlzJTIwYmFsbHxlbnwwfHwwfHx8MA%3D%3D)
+
+<br>
+About me, myself and I:
+
+ - based in [Nuremberg](https://de.wikipedia.org/wiki/Nürnberg)📍           
+ - Web Dev Student👩🏻‍🎓💻
+ - Love Tennis🎾
+
+
+
+
