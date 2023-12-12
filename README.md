@@ -1,4 +1,4 @@
- ### _Hey there! I'm using github!
+ ### Hey there! I'm using github!
 
 <br>
 About me, myself and I:
